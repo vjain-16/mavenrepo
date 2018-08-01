@@ -34,7 +34,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>https://alcon.hsdp.io/nexus/repository/vj-test-snap-repo/</url>
+            <url>https://alcon.hsdp.io/nexus/repository/vjsnaprepotest/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
